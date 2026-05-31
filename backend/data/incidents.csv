@@ -1,0 +1,52 @@
+location,hour,day_of_week,traffic_level,weather,risk_score
+Aga Khan Hospital,8,1,2,clear,0.25
+Aga Khan Hospital,12,3,3,clear,0.28
+Aga Khan Hospital,17,5,4,rainy,0.45
+City Hospital,8,1,3,clear,0.34
+City Hospital,12,3,4,clear,0.39
+City Hospital,17,5,5,rainy,0.58
+Liaquat Hospital,8,1,4,clear,0.41
+Liaquat Hospital,12,3,5,rainy,0.64
+Liaquat Hospital,17,5,5,rainy,0.72
+Saddar,8,1,4,clear,0.48
+Saddar,12,3,5,rainy,0.67
+Saddar,17,5,5,clear,0.60
+Clifton,8,1,3,clear,0.33
+Clifton,12,3,4,clear,0.42
+Clifton,17,5,5,clear,0.51
+Gulshan,8,1,3,clear,0.36
+Gulshan,12,3,4,clear,0.44
+Gulshan,17,5,5,rainy,0.58
+PECHS,8,1,3,clear,0.30
+PECHS,12,3,4,clear,0.37
+PECHS,17,5,4,clear,0.49
+Defence,8,1,2,clear,0.24
+Defence,12,3,3,clear,0.31
+Defence,17,5,4,clear,0.43
+Korangi,8,1,4,clear,0.52
+Korangi,12,3,5,rainy,0.72
+Korangi,17,5,5,rainy,0.79
+Landhi,8,1,4,clear,0.47
+Landhi,12,3,5,rainy,0.68
+Landhi,17,5,5,rainy,0.75
+Malir,8,1,3,clear,0.39
+Malir,12,3,4,clear,0.48
+Malir,17,5,5,rainy,0.62
+Lyari,8,1,4,clear,0.51
+Lyari,12,3,5,rainy,0.74
+Lyari,17,5,5,rainy,0.82
+North Nazimabad,8,1,2,clear,0.27
+North Nazimabad,12,3,3,clear,0.34
+North Nazimabad,17,5,4,clear,0.45
+Orangi,8,1,4,clear,0.50
+Orangi,12,3,5,rainy,0.70
+Orangi,17,5,5,rainy,0.78
+City Hospital,8,1,5,clear,0.55
+Clifton,8,1,5,clear,0.46
+Gulshan,8,1,5,clear,0.41
+PECHS,8,1,5,clear,0.36
+Defence,12,3,2,clear,0.29
+Korangi,12,3,4,clear,0.55
+Landhi,12,3,3,clear,0.52
+Lyari,12,3,4,clear,0.63
+Orangi,17,5,3,clear,0.57
